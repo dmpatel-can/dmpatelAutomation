@@ -1,0 +1,9 @@
+TestNG Listeners read the test cases results and create a nice html report 
+ExtentReports is a Raper on top of TestNG html java file.
+Java & Selenium doesn't generate any report.
+
+
+=> Copy Location of Project:  Go to CommandPrompt--> type: cd/ and paste:
+To know the Project Chart~~> write "tree"
+To run Test Cases~~> mvn install
+To run Test Cases~~> mvn clean install Denv="qa"
