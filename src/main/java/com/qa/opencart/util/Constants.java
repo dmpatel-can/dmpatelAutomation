@@ -6,7 +6,7 @@ import java.util.List;
 public class Constants
 {
 // TimeOut
-	public static final int DEFAULT_TIME_TIMEOUT = 5;
+	public static final int DEFAULT_TIME_TIMEOUT = 4;
 // Login Page
 	public static final String LOGIN_PAGE_URL = "https://demo.opencart.com/index.php?route=account/login";
 	public static final String LOGIN_PAGE_URL_FRACTION = "cart.com/index.php?route=account/login";
