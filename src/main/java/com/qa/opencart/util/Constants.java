@@ -26,7 +26,7 @@ public class Constants
 	public static final String REGISTER_SHEET_NAME = "RegisterTestData";
 // My Account Page
 	public static final String MY_ACCOUNT_PAGE_TITLE = "My Account";
-	public static final String MY_ACCOUNT_PAGE_HEADER = "Your Store44";
+	public static final String MY_ACCOUNT_PAGE_HEADER = "Your Store";
 		
 	public static List<String> getExpectedAccountSecList()
 	{
